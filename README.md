@@ -106,9 +106,9 @@ const ahmadragiel = {
 
 ---
 
-### 📫 Contact Me
+### 📫 Let's Connect!
 
-Let’s build something useful and impactful together!
+I'm open to collaboration, internships, or just tech discussions 🚀
 
 - 📧 **Email**: [ahmadragiel10@gmail.com](mailto:ahmadragiel10@gmail.com)
 - 📷 **Instagram**: [@ragielzaini](https://instagram.com/ragielzaini)
