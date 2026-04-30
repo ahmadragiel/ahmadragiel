@@ -106,6 +106,13 @@ const ahmadragiel = {
 
 ---
 
+# 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
 ### 📫 Let's Connect!
 
 I'm open to collaboration, internships, or just tech discussions 🚀
