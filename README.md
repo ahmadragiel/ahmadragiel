@@ -7,6 +7,9 @@
 <p align="center">
   <a href="https://github.com/ahmadragiel"><img src="https://img.shields.io/github/followers/ahmadragiel?label=Follow&style=social" /></a>
   <a href="mailto:ahmadragiel10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/ragielzaini">
+    <img src="https://img.shields.io/badge/Instagram-@ragielzaini-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -90,11 +93,20 @@ const ahmadragiel = {
 
 ---
 
-### 📊 GitHub Analysis
+# 📊 GitHub Stats
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadragiel&show_icons=true&theme=tokyonight" height="200" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadragiel&layout=compact&theme=tokyonight" height="200" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadragiel&theme=tokyonight" height="150"/>
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ahmadragiel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=94a3b8&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadragiel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=94a3b8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadragiel&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00e5ff&fire=f59e0b&currStreakLabel=00e5ff&sideLabels=94a3b8"/>
+
+</div>
 
 ---
 
