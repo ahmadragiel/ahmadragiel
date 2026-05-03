@@ -31,11 +31,6 @@ const ahmadragiel = {
   'Strategy & Competitive Gaming',
   'Staying Active (Sports)',
 ],
-  currentFocus: [
-    'Machine Learning & Data Analysis',
-    'Full-Stack Web Development',
-    'Building Real-World Applications',
-  ],
   motto: 'Keep it simple, make it work, then improve it.',
   contact: {
     email: 'ahmadragiel10@gmail.com',
@@ -96,17 +91,16 @@ const ahmadragiel = {
 # 📊 GitHub Stats
 
 <div align="center">
-
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ahmadragiel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=94a3b8&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadragiel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=94a3b8"/>
+</div>
 
+<div>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadragiel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=94a3b8"/>
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadragiel&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00e5ff&fire=f59e0b&currStreakLabel=00e5ff&sideLabels=94a3b8"/>
-
-</div>
 
 ---
 
