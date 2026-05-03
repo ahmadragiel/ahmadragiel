@@ -106,9 +106,10 @@ const ahmadragiel = {
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadragiel&theme=tokyo-night" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadragiel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e5ff&line=7c3aed&point=f59e0b" width="100%"/>
+</div>
+
 
 ---
 
