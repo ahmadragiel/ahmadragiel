@@ -84,10 +84,10 @@ Status     : Open to Internships & Collabs 🟢
 # 📊 GitHub Stats
 
 <div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ahmadragiel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=94a3b8&count_private=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadragiel&show_icons=true&theme=tokyonight" height="200" />
 </div>
 
-<div>
+<div align="center">
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadragiel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=94a3b8"/>
 </div>
 
