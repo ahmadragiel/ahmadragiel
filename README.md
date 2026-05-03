@@ -14,44 +14,37 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```js
-const ahmadragiel = {
-  name: 'Ahmad Ragiel Zaini',
-  titles: [
-    'Informatics Engineering Student',
-    'Aspiring Web Developer & Data Enthusiast',    
-  ],
-  hobbies: [
-  'Software Development & Debugging',
-  'Exploring Systems & Networking',
-  'Designing Clean & Functional UI',
-  'Learning Machine Learning & Data Analysis',
-  'Strategy & Competitive Gaming',
-  'Staying Active (Sports)',
-],
-  motto: 'Keep it simple, make it work, then improve it.',
-  contact: {
-    email: 'ahmadragiel10@gmail.com',
-    github: 'https://github.com/ahmadragiel',
-    instagram: 'https://instagram.com/ragielzaini',
-  },
-}
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+```yaml
+Name       : Ahmad Ragiel Zaini
+Location   : Indonesia 🇮🇩
+Role       : Informatics Engineering Student
+Status     : Open to Internships & Collabs 🟢
 ```
 
-- 💻 Passionate about building real-world web applications
-- 🌱 Currently learning Machine Learning, Data Analysis, and modern Web Development
-- 🔧 Strong in problem solving, backend integration & clean, functional UI
-- 💬 Open to discussions about web development, data projects, and tech
-- 🎮 Fun fact: I enjoy strategy games and staying active as much as coding
+🔭 &nbsp;Building real-world **web applications**
+🌱 &nbsp;Learning **Machine Learning** & **Data Analysis**
+🔧 &nbsp;Strong in problem solving & clean UI
+🎮 &nbsp;Strategy gamer by night, developer by day
+☕ &nbsp;Powered by coffee & curiosity
+
+> _"Keep it simple, make it work, then improve it."_
+
+<br clear="right"/>
+
 
 ---
-### 🎯 Current Goals
+## 🎯 Current Goals
 
-- 🚀 Build and deploy real-world web applications
-- 📊 Improve skills in Machine Learning & Data Analysis
-- 💼 Prepare for internships in Web/Data Development
+| # | Goal | Status |
+|---|------|--------|
+| 🚀 | Build & deploy full-stack web applications | 🔄 In Progress |
+| 📊 | Level up in Machine Learning & Data Analysis | 🔄 In Progress |
+| 💼 | Land an internship in Web / Data Development | 🎯 Targeting |
+| 🌐 | Contribute to open-source projects | 📌 Planned |
 
 ---
 ### 🚀 Tech Stack & Tools
