@@ -88,12 +88,11 @@ Status     : Open to Internships & Collabs 🟢
 </div>
 
 <div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadragiel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=94a3b8"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadragiel&layout=compact&theme=tokyonight" height="200" /> 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadragiel&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00e5ff&fire=f59e0b&currStreakLabel=00e5ff&sideLabels=94a3b8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadragiel&theme=tokyonight" height="150"/>
 
 ---
 
