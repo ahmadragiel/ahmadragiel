@@ -1,131 +1,124 @@
-<h1 align="center">Hi there, I'm Ahmad Ragiel Zaini 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1200&color=00CFFF&center=true&vCenter=true&width=520&lines=Aspiring+Web+%26+Data+Developer;Clean+Code+Enthusiast+☕;Lifelong+Learner+🧠;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="./assets/banner.svg" alt="Ahmad Ragiel Zaini, Informatics Engineering Student" width="100%"/>
+
+<br/><br/>
+
+<a href="https://github.com/ahmadragiel"><img src="https://img.shields.io/github/followers/ahmadragiel?label=Followers&style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=00CFFF" alt="GitHub followers"/></a>
+<a href="mailto:ahmadragiel10@gmail.com"><img src="https://img.shields.io/badge/Email-ahmadragiel10%40gmail.com-00CFFF?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/></a>
+<a href="https://instagram.com/ragielzaini"><img src="https://img.shields.io/badge/Instagram-%40ragielzaini-7c3aed?style=flat-square&logo=instagram&logoColor=white&labelColor=161b22" alt="Instagram"/></a>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+<h2>👋 About me</h2>
+
+<p>
+I'm an Informatics Engineering student based in Depok, Indonesia.<br/>
+I focus on building functional web applications, database management, and exploring data analysis.<br/>
+Passionate about clean code, practical problem-solving, and capturing moments through photography & outdoor treks.
 </p>
 
-<p align="center">
-  <a href="https://github.com/ahmadragiel"><img src="https://img.shields.io/github/followers/ahmadragiel?label=Follow&style=social" /></a>
-  <a href="mailto:ahmadragiel10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/ragielzaini">
-    <img src="https://img.shields.io/badge/Instagram-@ragielzaini-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+<table>
+  <tr>
+    <td align="center" width="230"><h3>🔭</h3><b>Building</b><br/>Web Applications &amp; Side Projects</td>
+    <td align="center" width="230"><h3>🌱</h3><b>Learning</b><br/>Data Analysis &amp; Machine Learning</td>
+    <td align="center" width="230"><h3>🔧</h3><b>Strong at</b><br/>Web Dev, MySQL &amp; UI Design</td>
+  </tr>
+  <tr>
+    <td align="center" width="230"><h3>⛰️</h3><b>After hours</b><br/>Mountain Hiking &amp; Photography 📷</td>
+    <td align="center" width="230"><h3>☕</h3><b>Fuel</b><br/>Coffee &amp; Curiosity</td>
+    <td align="center" width="230"><h3>📍</h3><b>Based in</b><br/>Depok, West Java, Indonesia 🇮🇩</td>
+  </tr>
+</table>
+
+<br/>
+
+<i>"Keep it simple, make it work, then improve it."</i>
+
+<br/><br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════ GOALS ═══════════════ -->
+<h2>🎯 Current goals</h2>
+
+| | Goal | Status |
+|:-:|:--|:-:|
+| 🚀 | Build & deploy functional web & database systems | ![In progress](https://img.shields.io/badge/-In%20Progress-00CFFF?style=flat-square) |
+| 📊 | Level up in Data Analysis & Machine Learning workflows | ![In progress](https://img.shields.io/badge/-In%20Progress-00CFFF?style=flat-square) |
+| 💼 | Land an internship in Web Development or Data Analysis | ![Targeting](https://img.shields.io/badge/-Targeting-f59e0b?style=flat-square) |
+| 🌐 | Contribute to open-source software projects | ![Planned](https://img.shields.io/badge/-Planned-7c3aed?style=flat-square) |
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+<h2>🛠️ Tech stack</h2>
+
+<table>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,html,css,php,java,py,cpp&theme=dark" alt="JavaScript, HTML, CSS, PHP, Java, Python, C++"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,netbean,figma&theme=dark" alt="MySQL, Git, GitHub, VS Code, NetBeans, Figma"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data & Analysis</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&theme=dark" alt="Pandas, NumPy, Scikit-Learn"/></td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+<h2>📊 GitHub stats</h2>
+
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadragiel&show_icons=true&bg_color=0d1117&title_color=00CFFF&text_color=c9d1d9&icon_color=7c3aed&border_color=30363d&border_radius=12" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadragiel&layout=compact&bg_color=0d1117&title_color=00CFFF&text_color=c9d1d9&border_color=30363d&border_radius=12" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=ahmadragiel&background=0d1117&border=30363d&stroke=30363d&ring=00CFFF&fire=f59e0b&currStreakNum=00CFFF&sideNums=c9d1d9&currStreakLabel=00CFFF&sideLabels=8b949e&dates=8b949e&border_radius=12" alt="GitHub streak" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadragiel&hide_border=true&bg_color=0d1117&color=00e5ff&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed" width="100%" alt="Contribution activity graph"/>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<h2>🐍 Contributions</h2>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<br/><br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+<h2>📫 Let's connect</h2>
+
+<p>
+I'm open to collaboration, internships, or tech discussions.<br/><br/>
+📧 <a href="mailto:ahmadragiel10@gmail.com">ahmadragiel10@gmail.com</a><br/>
+📷 <a href="https://instagram.com/ragielzaini">@ragielzaini</a>
 </p>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=ahmadragiel&style=flat-square&color=00CFFF&label=Profile+views&labelColor=161b22" alt="Profile views"/>
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<br/><br/>
 
-```yaml
-Name       : Ahmad Ragiel Zaini
-Location   : Indonesia 🇮🇩
-Role       : Informatics Engineering Student
-Status     : Open to Internships & Collabs 🟢
-```
-
-🔭 &nbsp;Building real-world **web applications**
-🌱 &nbsp;Learning **Machine Learning** & **Data Analysis**
-🔧 &nbsp;Strong in problem solving & clean UI
-🎮 &nbsp;Strategy gamer by night, developer by day
-☕ &nbsp;Powered by coffee & curiosity
-
-> _"Keep it simple, make it work, then improve it."_
-
-<br clear="right"/>
-
-
----
-## 🎯 Current Goals
-
-| # | Goal | Status |
-|---|------|--------|
-| 🚀 | Build & deploy full-stack web applications | 🔄 In Progress |
-| 📊 | Level up in Machine Learning & Data Analysis | 🔄 In Progress |
-| 💼 | Land an internship in Web / Data Development | 🎯 Targeting |
-| 🌐 | Contribute to open-source projects | 📌 Planned |
-
----
-### 🚀 Tech Stack & Tools
-
-**Languages:**
-
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-**Web Development:**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-**Data & Machine Learning:**
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
----
-
-**Tools & Platforms:**
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadragiel&show_icons=true&theme=tokyonight" height="200" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadragiel&layout=compact&theme=tokyonight" height="200" /> 
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadragiel&theme=tokyonight" height="150"/>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadragiel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e5ff&line=7c3aed&point=f59e0b" width="100%"/>
-</div>
-
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-### 📫 Let's Connect!
-
-I'm open to collaboration, internships, or just tech discussions 🚀
-
-- 📧 **Email**: [ahmadragiel10@gmail.com](mailto:ahmadragiel10@gmail.com)
-- 📷 **Instagram**: [@ragielzaini](https://instagram.com/ragielzaini)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadragiel&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
 
 </div>
