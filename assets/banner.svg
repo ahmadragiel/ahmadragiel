@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="bt bd">
+  <title id="bt">Ahmad Ragiel Zaini</title>
+  <desc id="bd">Terminal window showing: Ahmad Ragiel Zaini, Informatics Engineering Student, open to internships and collabs.</desc>
+
+  <style>
+    text { font-family: 'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace; }
+  </style>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#141a29"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00CFFF"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00CFFF"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="900" height="320" rx="16"/></clipPath>
+
+    <!-- typing reveals (static width = fully visible fallback) -->
+    <clipPath id="c-who"><rect x="40" y="70" width="140" height="28">
+      <animate attributeName="width" values="0;0;140" keyTimes="0;0.2857;1" dur="0.7s" begin="0s" fill="freeze"/>
+    </rect></clipPath>
+    <clipPath id="c-name"><rect x="40" y="104" width="580" height="60">
+      <animate attributeName="width" values="0;0;580" keyTimes="0;0.4;1" dur="2s" begin="0s" fill="freeze"/>
+    </rect></clipPath>
+    <clipPath id="c-role"><rect x="40" y="178" width="600" height="28">
+      <animate attributeName="width" values="0;0;600" keyTimes="0;0.75;1" dur="2.8s" begin="0s" fill="freeze"/>
+    </rect></clipPath>
+    <clipPath id="c-focus"><rect x="40" y="206" width="600" height="28">
+      <animate attributeName="width" values="0;0;600" keyTimes="0;0.7838;1" dur="3.7s" begin="0s" fill="freeze"/>
+    </rect></clipPath>
+    <clipPath id="c-status"><rect x="40" y="234" width="600" height="28">
+      <animate attributeName="width" values="0;0;600" keyTimes="0;0.8636;1" dur="4.4s" begin="0s" fill="freeze"/>
+    </rect></clipPath>
+
+    <!-- rotating taglines: 16s loop, one line per quarter -->
+    <clipPath id="c-t0"><rect x="66" y="272" width="340" height="30">
+      <animate attributeName="width" values="0;0;340;340" keyTimes="0;0;0.05;1" dur="16s" begin="4.6s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="c-t1"><rect x="66" y="272" width="340" height="30">
+      <animate attributeName="width" values="0;0;340;340" keyTimes="0;0.25;0.30;1" dur="16s" begin="4.6s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="c-t2"><rect x="66" y="272" width="340" height="30">
+      <animate attributeName="width" values="0;0;340;340" keyTimes="0;0.5;0.55;1" dur="16s" begin="4.6s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="c-t3"><rect x="66" y="272" width="340" height="30">
+      <animate attributeName="width" values="0;0;340;340" keyTimes="0;0.75;0.8;1" dur="16s" begin="4.6s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- surface -->
+    <rect width="900" height="320" fill="url(#bg)"/>
+    <rect width="900" height="320" fill="url(#grid)"/>
+    <circle cx="760" cy="185" r="120" fill="#00CFFF" opacity=".12" filter="url(#glow)"/>
+    <circle cx="40" cy="310" r="130" fill="#7c3aed" opacity=".16" filter="url(#glow)"/>
+
+    <!-- window chrome -->
+    <rect width="900" height="40" fill="#ffffff" fill-opacity=".04"/>
+    <line x1="0" y1="40" x2="900" y2="40" stroke="#ffffff" stroke-opacity=".07"/>
+    <circle cx="28" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="48" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="68" cy="20" r="6" fill="#27c93f"/>
+    <text x="450" y="25" text-anchor="middle" font-size="13" fill="#8b949e">ragiel@dev: ~/about</text>
+
+    <!-- content -->
+    <text x="48" y="90" font-size="16" clip-path="url(#c-who)"><tspan fill="#00CFFF">$</tspan><tspan dx="10" fill="#8b949e">whoami</tspan></text>
+
+    <text x="48" y="150" font-size="48" font-weight="800" fill="url(#name)" clip-path="url(#c-name)">Ahmad Ragiel Zaini</text>
+
+    <text x="48" y="196" font-size="18" clip-path="url(#c-role)"><tspan fill="#8b949e">role</tspan><tspan x="140" fill="#c9d1d9">Informatics Engineering Student</tspan></text>
+    <text x="48" y="224" font-size="18" clip-path="url(#c-focus)"><tspan fill="#8b949e">focus</tspan><tspan x="140" fill="#c9d1d9">Web development and machine learning</tspan></text>
+    <g clip-path="url(#c-status)">
+      <text x="48" y="252" font-size="18" fill="#8b949e">status</text>
+      <circle cx="148" cy="246" r="5" fill="#3fb950"/>
+      <text x="164" y="252" font-size="18" fill="#c9d1d9">Open to internships and collabs</text>
+    </g>
+    <circle cx="148" cy="246" r="5" fill="#3fb950" opacity="0">
+      <animate attributeName="r" values="5;13" dur="2.2s" begin="4.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;0" dur="2.2s" begin="4.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <line x1="48" y1="272" x2="620" y2="272" stroke="#ffffff" stroke-opacity=".08" transform="translate(0 -4)"/>
+
+    <!-- rotating taglines -->
+    <g>
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.92;1" dur="5s" begin="0s" fill="freeze"/>
+      <text x="48" y="294" font-size="17" fill="#f59e0b">&gt;</text>
+      <text x="66" y="294" font-size="17" fill="#c9d1d9" clip-path="url(#c-t0)" opacity="1">
+        Aspiring Web &amp; Data Developer
+        <animate attributeName="opacity" calcMode="discrete" values="1;0;0;0" keyTimes="0;0.25;0.5;0.75" dur="16s" begin="4.6s" repeatCount="indefinite"/>
+      </text>
+      <text x="66" y="294" font-size="17" fill="#c9d1d9" clip-path="url(#c-t1)" opacity="0">
+        Clean Code Enthusiast
+        <animate attributeName="opacity" calcMode="discrete" values="0;1;0;0" keyTimes="0;0.25;0.5;0.75" dur="16s" begin="4.6s" repeatCount="indefinite"/>
+      </text>
+      <text x="66" y="294" font-size="17" fill="#c9d1d9" clip-path="url(#c-t2)" opacity="0">
+        Lifelong Learner
+        <animate attributeName="opacity" calcMode="discrete" values="0;0;1;0" keyTimes="0;0.25;0.5;0.75" dur="16s" begin="4.6s" repeatCount="indefinite"/>
+      </text>
+      <text x="66" y="294" font-size="17" fill="#c9d1d9" clip-path="url(#c-t3)" opacity="0">
+        Building Real-World Projects
+        <animate attributeName="opacity" calcMode="discrete" values="0;0;0;1" keyTimes="0;0.25;0.5;0.75" dur="16s" begin="4.6s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- orbit -->
+    <g transform="translate(760 185)">
+      <circle r="112" fill="none" stroke="#ffffff" stroke-opacity=".07"/>
+      <circle r="84" fill="none" stroke="#7c3aed" stroke-opacity=".55" stroke-dasharray="3 9"/>
+      <circle r="52" fill="#0d1117" stroke="url(#edge)" stroke-opacity=".8" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="26s" repeatCount="indefinite"/>
+        <circle cx="84" cy="0" r="5" fill="#f59e0b" filter="url(#soft)"/>
+        <circle cx="-84" cy="0" r="3" fill="#7c3aed"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="40s" repeatCount="indefinite"/>
+        <circle cx="0" cy="-112" r="4" fill="#00CFFF" filter="url(#soft)"/>
+        <circle cx="79" cy="79" r="3" fill="#ffffff" fill-opacity=".55"/>
+      </g>
+      <text y="12" text-anchor="middle" font-size="34" font-weight="700" fill="url(#edge)">&lt;/&gt;</text>
+    </g>
+  </g>
+
+  <rect x=".5" y=".5" width="899" height="319" rx="16" fill="none" stroke="url(#edge)" stroke-opacity=".55"/>
+</svg>
