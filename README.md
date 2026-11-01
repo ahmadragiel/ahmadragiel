@@ -81,20 +81,19 @@ Passionate about clean code, practical problem-solving, and capturing moments th
 <!-- ═══════════════ STATS ═══════════════ -->
 <h2>📊 GitHub stats</h2>
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadragiel&show_icons=true&bg_color=0d1117&title_color=00CFFF&text_color=c9d1d9&icon_color=7c3aed&border_color=30363d&border_radius=12" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadragiel&layout=compact&bg_color=0d1117&title_color=00CFFF&text_color=c9d1d9&border_color=30363d&border_radius=12" alt="Top languages"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadragiel&theme=github_dark" alt="Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadragiel&theme=github_dark" alt="Most Commit Language" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadragiel&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadragiel&theme=github_dark&utcOffset=7" alt="Productive Time" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=ahmadragiel&background=0d1117&border=30363d&stroke=30363d&ring=00CFFF&fire=f59e0b&currStreakNum=00CFFF&sideNums=c9d1d9&currStreakLabel=00CFFF&sideLabels=8b949e&dates=8b949e&border_radius=12" alt="GitHub streak" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadragiel&hide_border=true&bg_color=0d1117&color=00e5ff&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed" width="100%" alt="Contribution activity graph"/>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadragiel&custom_title=Contribution%20Graph&hide_border=true&bg_color=0B1020&color=38BDF8&line=14B8A6&point=F59E0B" alt="Activity Graph"/>
+</p>
 
 <h2>🐍 Contributions</h2>
 
